@@ -1,0 +1,2 @@
+wechaty~=0.6
+apscheduler
