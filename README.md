@@ -71,4 +71,8 @@ docker run \
 git clone https://github.com/exctech/market-wechat-robot.git
 ```
 
-### 
+### 运行机器人
+
+```sh
+python market-robot.py
+```
